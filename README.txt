@@ -128,6 +128,8 @@ Known Issues:
   - There is no handling for visbility or camera tracks which seem to be used
     
 Change Log:
+  1.5 (BlazesRusBranch)
+	Updated project to VS2019
   1.4
    * Add support for Havok Behavior files and Bethesda specific classes
    * Altered ExportKF to used frame_increment = duration / (nframe-1);
